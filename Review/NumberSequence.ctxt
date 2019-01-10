@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=NumberSequence
+comment1.params=n
+comment1.target=void\ Fibonacci(int)
+comment2.params=n
+comment2.target=int\ Fib2(int)
+comment3.params=n
+comment3.target=void\ Cubic(int)
+comment4.params=n
+comment4.target=void\ Triangular(int)
+comment5.params=n
+comment5.target=void\ Square(int)
+comment6.params=
+comment6.target=NumberSequence()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
